@@ -1,4 +1,5 @@
 public class Square implements Shape {
+
     private double height;
 
     public Square(double height) {
